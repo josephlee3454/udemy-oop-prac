@@ -1,0 +1,16 @@
+/home/owner/dojo/udemy-practice/c#-prac/obj/Debug/net5.0/c#-prac.csprojAssemblyReference.cache
+/home/owner/dojo/udemy-practice/c#-prac/obj/Debug/net5.0/c#-prac.GeneratedMSBuildEditorConfig.editorconfig
+/home/owner/dojo/udemy-practice/c#-prac/obj/Debug/net5.0/c#-prac.AssemblyInfoInputs.cache
+/home/owner/dojo/udemy-practice/c#-prac/obj/Debug/net5.0/c#-prac.AssemblyInfo.cs
+/home/owner/dojo/udemy-practice/c#-prac/obj/Debug/net5.0/c#-prac.csproj.CoreCompileInputs.cache
+/home/owner/dojo/udemy-practice/c#-prac/bin/Debug/net5.0/c#-prac
+/home/owner/dojo/udemy-practice/c#-prac/bin/Debug/net5.0/c#-prac.deps.json
+/home/owner/dojo/udemy-practice/c#-prac/bin/Debug/net5.0/c#-prac.runtimeconfig.json
+/home/owner/dojo/udemy-practice/c#-prac/bin/Debug/net5.0/c#-prac.runtimeconfig.dev.json
+/home/owner/dojo/udemy-practice/c#-prac/bin/Debug/net5.0/c#-prac.dll
+/home/owner/dojo/udemy-practice/c#-prac/bin/Debug/net5.0/ref/c#-prac.dll
+/home/owner/dojo/udemy-practice/c#-prac/bin/Debug/net5.0/c#-prac.pdb
+/home/owner/dojo/udemy-practice/c#-prac/obj/Debug/net5.0/c#-prac.dll
+/home/owner/dojo/udemy-practice/c#-prac/obj/Debug/net5.0/ref/c#-prac.dll
+/home/owner/dojo/udemy-practice/c#-prac/obj/Debug/net5.0/c#-prac.pdb
+/home/owner/dojo/udemy-practice/c#-prac/obj/Debug/net5.0/c#-prac.genruntimeconfig.cache
